@@ -1,81 +1,14 @@
 # TEOS Egypt Sovereign License (TESL)
 
-Copyright © 2025–2026 Elmahrosa International
+Copyright © 2025-2026 Elmahrosa International
 All Rights Reserved.
 
 This repository is governed by the
 **TEOS Egypt Sovereign License (TESL)**.
 
-This file is a **pointer only**.
-The canonical and authoritative license text
-is maintained exclusively at:
-
+**Canonical license (single source of truth):**
 https://github.com/Elmahrosa/teos-international-civic-blockchain-constitution/blob/main/LICENSE.md
 
+If any discrepancy exists, the canonical TESL prevails.
+
 This repository is **source-available, not open source**.
-
----
-
-## TESL v2.0 (TEOS Sovereign License) — governed by the ICBC Constitution
-
-**Not MIT. Not Apache.**
-
-This is a sovereign license designed for government, institutional, and
-constitution-bound deployment under the
-**International Civic Blockchain Constitution (ICBC)**.
-
-**Permitted:**
-- Use by governments, regulators, and approved institutions
-- Institutional, regulatory, and compliance audit review
-
-**Required:**
-- Audit manifests in all deployments
-- Governance-aligned execution per ICBC authority chain
-
-**Prohibited:**
-- Unauthorized forking or re-licensing
-- Unauthorized claims of institutional or sovereign legitimacy
-- Any deviation from the ICBC authority chain
-
-**Sovereignty Protection:**
-Protects against unauthorized claims of institutional or sovereign legitimacy.
-
-**Commercial Use:**
-Permitted only under approved licensing arrangements and authorized
-partnerships through Elmahrosa International.
-
----
-
-**Contact & Sovereign Licensing:**
-All commercial, institutional, or governmental use requires explicit written approval:
-
-**Ayman Seif — Elmahrosa International**
-📧 ayman@teosegypt.com
-
-**Canonical Authority Chain (no bypasses):**
-```
-International Civic Blockchain Constitution (ICBC) — Source of Truth
-↓
-TEOS-FORGE — Stewardship & Lifecycle
-↓
-TEOS-Governance — Policy & Oversight
-↓
-TEOS-Compliance-Kit — Regulatory Enforcement
-↓
-TEOS-AI-Guard — AI Safety Gates
-↓
-TEOS-AI-Auditor — Audit & Logging
-↓
-Teos-Sovereign-System — Execution Kernel
-↓
-TEOS-API-Sovereign — API Gateway
-↓
-External Applications, Institutions, Nations & Partners
-```
-
-**Constitutional References:**
-- Constitution (Single Source of Truth): https://github.com/Elmahrosa/teos-international-civic-blockchain-constitution
-- License Authority (TESL): https://github.com/Elmahrosa/teos-international-civic-blockchain-constitution/blob/main/LICENSE.md
-- Stewardship & Governance Anchor (TEOS-FORGE): https://github.com/Elmahrosa/teos-forge
-
-*Born in Egypt. Engineered for Nations. Scaled for the World.*
