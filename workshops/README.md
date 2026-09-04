@@ -4,26 +4,19 @@ Workshops are structured sessions for auditors, developers, and institutional
 partners. Each workshop ships with slides, lab exercises, and certification
 prep. Content is added as sessions are ratified for release.
 
-## Planned Sessions
+## Sessions
 
-| # | Topic | Audience | Status |
-| --- | --- | --- | --- |
-| W-01 | Governance lifecycle & the ICBC authority chain | All | Planned |
-| W-02 | Council onboarding & membership proposals | Candidates | Planned |
-| W-03 | Audit-first development & evidence chains | Auditors, Devs | Planned |
-| W-04 | Sovereign AI philosophy: AI advises, humans decide | All | Planned |
-| W-05 | Proposal drafting & YAML templates | Institutional | Planned |
+| # | Topic | Audience | Status | Outline |
+| --- | --- | --- | --- | --- |
+| W-01 | Governance lifecycle & the ICBC authority chain | All | Draft | [W-01.md](./W-01.md) |
+| W-02 | Council onboarding & membership proposals | Candidates | Planned | — |
+| W-03 | Audit-first development & evidence chains | Auditors, Devs | Planned | — |
+| W-04 | Sovereign AI philosophy: AI advises, humans decide | All | Planned | — |
+| W-05 | Proposal drafting & YAML templates | Institutional | Planned | — |
 
-## Lab Exercise (W-01 sample)
+## Lab Exercise (W-01)
 
-**Exercise:** Trace one governance artifact through the full lifecycle and
-confirm that `REJECTED` cannot reach `EXECUTED`.
-
-1. Read `docs/governance.md`.
-2. Read the lifecycle in the TEOS Forge repo:
-   `forge/src/proposal.js` (transition table).
-3. Verify: `canTransition("REJECTED", "EXECUTED") === false`.
-4. Document the audit events that a rejected proposal would leave behind.
+The W-01 lab is defined inside [W-01.md](./W-01.md) (Part 4).
 
 ## Certification Prep
 
