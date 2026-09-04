@@ -1,0 +1,35 @@
+# Membership Proposal Template (YAML)
+# EXAMPLE / TEACHING ARTIFACT — NOT A LIVE NOMINATION.
+# Do not submit with placeholder values. Every field must carry verifiable
+# evidence before this is considered a real nomination.
+
+proposal:
+  id: ""                    # assigned by TEOS Forge on submission
+  type: membership
+  council: governance       # membership proposals are reviewed by the Governance Council
+  title: "Council Membership Nomination"
+  summary: >
+    One-paragraph summary of the candidacy, eligibility, and the council
+    scope the candidate will serve.
+
+  author:
+    id: ""                  # verifiable nominator id (ratified member or institutional sponsor)
+    evidence: []            # links / references verifying nominator authority
+
+  candidate:
+    id: ""                  # verifiable legal identity
+    eligibility: ""         # auditor / developer / regulator / institutional
+    intended_scopes:        # map to council scope list
+      - governance
+    independence_declaration: true
+    consent_received: true
+    evidence: []            # identity and eligibility evidence URLs
+
+  timelock_ms: 0
+  payload:
+    onboarding_process_ref: "docs/COUNCIL_MEMBERSHIP_ONBOARDING.md"
+    expected_audit_events:
+      - member_nominated
+      - member_validated
+      - member_ratified
+      - member_operational

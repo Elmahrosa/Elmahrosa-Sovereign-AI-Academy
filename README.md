@@ -1,18 +1,63 @@
 # ELMAHROSA Sovereign AI Academy
 
-Educational and onboarding material for the TEOS/ERT ecosystem.
+Educational and onboarding hub for **sovereign AI engineering, governance, and
+council participation** within the TEOS / ERT ecosystem.
 
-## Purpose
+**Operating principle:**
+*Law authorizes → Governance ratifies → Policy enforces → Code executes. Nothing more.*
 
-- Governance docs, tutorials, sample proposals, workshop slides, FAQ
-- Onboarding material for developers, auditors, and council members
-- Reinforces: Law authorizes → Governance ratifies → Policy enforces → Code executes
+---
 
-## Structure
+## Mission
 
-- `docs/` — Governance overviews, how-to guides
-- `tutorials/` — Step-by-step guides
-- `examples/` — Sample proposals, vote-recording code
+Build the human foundation of the TEOS sovereign stack: trained auditors,
+developers, and council members who can participate in governance with full
+transparency — without ever inventing or simulating legitimate membership.
+
+## Strategic Pillars
+
+1. **Governance Education** — how authority flows through the ICBC authority
+   chain and why governance precedes automation.
+2. **Council Onboarding** — the legitimate membership process:
+   propose → validate → ratify → operational. No identity is assumed.
+3. **Audit Discipline** — audit-first, governance-first training: every
+   state-changing action must produce immutable, verifiable evidence.
+4. **Sovereign AI Philosophy** — AI advises, human authority decides; no
+   autonomous governance, no AI-created authority.
+5. **Certification Pathways** — structured learning and exam access for
+   institutional partners and council members.
+
+## Scope
+
+This repository is strictly **educational, onboarding, and governance-training
+material**. It does **not** contain:
+
+- Token contracts or emissions logic
+- Mining / reward / incentive mechanics
+- Production databases or deployment infrastructure
+
+Those components remain governed by TEOS Forge and remain **BLOCKED** until the
+ERT token and councils are legitimately established.
+
+## Repository Structure
+
+| Path | Purpose |
+| --- | --- |
+| `docs/` | Governance overviews, security architecture, institutional AI philosophy |
+| `tutorials/` | Step-by-step guides (proposal submission, council onboarding) |
+| `examples/` | Sample proposals, vote-recording templates, YAML policy templates |
+| `workshops/` | Slides, lab exercises, certification preparation |
+| `faq/` | Common questions on sovereignty, governance, compliance |
+
+## Relationship to TEOS Forge
+
+**TEOS Forge is the single source of truth** for policy validation, proposal
+lifecycle, and council coordination. The Academy educates; Forge enforces.
+Educational material must never bypass, simulate, or substitute for a
+ratified governance decision.
+
+See the canonical governance lifecycle:
+https://github.com/Elmahrosa/teos-forge/blob/main/docs/governance-lifecycle.md
 
 ## License
 
