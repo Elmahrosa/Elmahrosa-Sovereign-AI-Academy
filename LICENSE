@@ -1,21 +1,81 @@
-MIT License
+# TEOS Egypt Sovereign License (TESL)
 
-Copyright (c) 2026 ELMAHROSA
+Copyright © 2025–2026 Elmahrosa International
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository is governed by the
+**TEOS Egypt Sovereign License (TESL)**.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This file is a **pointer only**.
+The canonical and authoritative license text
+is maintained exclusively at:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+https://github.com/Elmahrosa/teos-international-civic-blockchain-constitution/blob/main/LICENSE.md
+
+This repository is **source-available, not open source**.
+
+---
+
+## TESL v2.0 (TEOS Sovereign License) — governed by the ICBC Constitution
+
+**Not MIT. Not Apache.**
+
+This is a sovereign license designed for government, institutional, and
+constitution-bound deployment under the
+**International Civic Blockchain Constitution (ICBC)**.
+
+**Permitted:**
+- Use by governments, regulators, and approved institutions
+- Institutional, regulatory, and compliance audit review
+
+**Required:**
+- Audit manifests in all deployments
+- Governance-aligned execution per ICBC authority chain
+
+**Prohibited:**
+- Unauthorized forking or re-licensing
+- Unauthorized claims of institutional or sovereign legitimacy
+- Any deviation from the ICBC authority chain
+
+**Sovereignty Protection:**
+Protects against unauthorized claims of institutional or sovereign legitimacy.
+
+**Commercial Use:**
+Permitted only under approved licensing arrangements and authorized
+partnerships through Elmahrosa International.
+
+---
+
+**Contact & Sovereign Licensing:**
+All commercial, institutional, or governmental use requires explicit written approval:
+
+**Ayman Seif — Elmahrosa International**
+📧 ayman@teosegypt.com
+
+**Canonical Authority Chain (no bypasses):**
+```
+International Civic Blockchain Constitution (ICBC) — Source of Truth
+↓
+TEOS-FORGE — Stewardship & Lifecycle
+↓
+TEOS-Governance — Policy & Oversight
+↓
+TEOS-Compliance-Kit — Regulatory Enforcement
+↓
+TEOS-AI-Guard — AI Safety Gates
+↓
+TEOS-AI-Auditor — Audit & Logging
+↓
+Teos-Sovereign-System — Execution Kernel
+↓
+TEOS-API-Sovereign — API Gateway
+↓
+External Applications, Institutions, Nations & Partners
+```
+
+**Constitutional References:**
+- Constitution (Single Source of Truth): https://github.com/Elmahrosa/teos-international-civic-blockchain-constitution
+- License Authority (TESL): https://github.com/Elmahrosa/teos-international-civic-blockchain-constitution/blob/main/LICENSE.md
+- Stewardship & Governance Anchor (TEOS-FORGE): https://github.com/Elmahrosa/teos-forge
+
+*Born in Egypt. Engineered for Nations. Scaled for the World.*
