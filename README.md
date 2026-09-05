@@ -3,8 +3,7 @@
 Educational and onboarding hub for **sovereign AI engineering, governance, and
 council participation** within the TEOS / ERT ecosystem.
 
-**Operating principle:**
-*Law authorizes → Governance ratifies → Policy enforces → Code executes. Nothing more.*
+**Operating principle:** *Law authorizes → Governance ratifies → Policy enforces → Code executes. Nothing more.*
 
 ---
 
@@ -41,13 +40,13 @@ ERT token and councils are legitimately established.
 
 ## Repository Structure
 
-| Path | Purpose |
-| --- | --- |
-| `docs/` | Governance overviews, security architecture, institutional AI philosophy |
-| `tutorials/` | Step-by-step guides (proposal submission, council onboarding) |
-| `examples/` | Sample proposals, vote-recording templates, YAML policy templates |
-| `workshops/` | Slides, lab exercises, certification preparation |
-| `faq/` | Common questions on sovereignty, governance, compliance |
+| Path         | Purpose                                                                  |
+| ------------ | ------------------------------------------------------------------------ |
+| `docs/`      | Governance overviews, security architecture, institutional AI philosophy |
+| `tutorials/` | Step-by-step guides (proposal submission, council onboarding)            |
+| `examples/`  | Sample proposals, vote-recording templates, YAML policy templates        |
+| `workshops/` | Slides, lab exercises, certification preparation                         |
+| `faq/`       | Common questions on sovereignty, governance, compliance                  |
 
 ## Relationship to TEOS Forge
 
@@ -57,12 +56,20 @@ Educational material must never bypass, simulate, or substitute for a
 ratified governance decision.
 
 See the canonical governance lifecycle:
-https://github.com/Elmahrosa/teos-forge/blob/main/docs/governance-lifecycle.md
+<https://github.com/Elmahrosa/teos-forge/blob/main/docs/governance-lifecycle.md>
+
+## Institutional Recognition
+
+Elmahrosa International is a Verified Claude Partner Network (CPN) Registered
+Member and an approved participant in Anthropic's Claude for Startups
+program. This reflects Elmahrosa's standing as an Anthropic technology
+partner — it is not an endorsement or certification of this Academy's
+governance curriculum by Anthropic.
 
 ## License
 
 **TEOS Egypt Sovereign License (TESL)** — source-available, not open source.
 
 Governed by the International Civic Blockchain Constitution (ICBC).
-See [LICENSE](./LICENSE). Canonical text:
-https://github.com/Elmahrosa/teos-international-civic-blockchain-constitution/blob/main/LICENSE.md
+See [LICENSE](https://github.com/Elmahrosa/Elmahrosa-Sovereign-AI-Academy/blob/main/LICENSE).
+Canonical text: <https://github.com/Elmahrosa/teos-international-civic-blockchain-constitution/blob/main/LICENSE.md>
